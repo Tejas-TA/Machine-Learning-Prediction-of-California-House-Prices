@@ -1,6 +1,6 @@
 # Machine Learning Prediction of California House Prices
 
-AWS - <br>
+Azure - https://ml-california-house-price-prediction.azurewebsites.net/ <br>
 Heroku - https://california-house-price.herokuapp.com/
 
 <h2>California House Price App Predicts the cost of affording a home based on factors like income, age of the owner, proximity to the Bay etc</h2>
@@ -36,7 +36,7 @@ Heroku - https://california-house-price.herokuapp.com/
 7. Model Evaluation<br>
 8. Exported the model<br>
 9. Created an EC2 instance in AWS running Ubuntu AMI and moved all the code to AWS cloud server<br>
-10. App running successfully in AWS-  <br>
+10. App running successfully in Azure - https://ml-california-house-price-prediction.azurewebsites.net/  <br>
 11. Deployed the same application on Heroku Cloud - https://california-house-price.herokuapp.com/ <hr>
 
 Blogs - https://tejasta.medium.com/ <br>

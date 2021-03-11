@@ -6,6 +6,8 @@
 
 <h2>California House Price App Predicts the cost of affording a home based on factors like income, age of the owner, proximity to the Bay etc</h2>
 
+<img src="https://github.com/Tejas-TA/ML-California-House-Prices-Prediction/blob/main/California_Demo.gif" width = "100%" height="100%">
+
 <h3>Dataset</h3> https://www.kaggle.com/camnugent/california-housing-prices <br><hr>
 
 <h3>Libraries Used</h3>

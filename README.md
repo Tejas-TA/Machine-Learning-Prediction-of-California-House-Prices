@@ -1,9 +1,9 @@
 # Machine Learning Prediction of California House Prices
 
-AWS - 
+AWS - <br>
 Heroku - https://california-house-price.herokuapp.com/
 
-<h2>California House Price App Predicts the cost of affording the home in California based on income, age of the owner, proximity to the Bay etc</h2>
+<h2>California House Price App Predicts the cost of affording a home based on factors like income, age of the owner, proximity to the Bay etc</h2>
 
 <h3>Dataset</h3> https://www.kaggle.com/camnugent/california-housing-prices <br><hr>
 

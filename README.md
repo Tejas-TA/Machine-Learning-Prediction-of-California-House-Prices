@@ -31,14 +31,13 @@
 1. Exploratory Data Analysis(EDA)<br>
 2. Data Visualization and Cleaning<br>
 3. Feature Engineering<br>
-4. Feature Selection and Scaling<br>
+4. Feature Selection<br>
 5. Trained Machine Learning algorithms<br>
 6. Predicted models on test dataset<br>
-7. Model Evaluation<br>
+7. Model Evaluation(Calculated R2, Adjusted R2, MSE, RMSE and Accuracy)<br>
 8. Exported the model<br>
-9. Created an EC2 instance in AWS running Ubuntu AMI and moved all the code to AWS cloud server<br>
-10. App running successfully in Azure - https://ml-california-house-price-prediction.azurewebsites.net/  <br>
-11. Deployed the same application on Heroku Cloud - https://california-house-price.herokuapp.com/ <hr>
+9. App running successfully in Azure - https://ml-california-house-price-prediction.azurewebsites.net/  <br>
+10. Deployed the same application on Heroku Cloud - https://california-house-price.herokuapp.com/ <hr>
 
 Blogs - https://tejasta.medium.com/ <br>
 LinkedIn - https://www.linkedin.com/in/tejas-ta/ <br>

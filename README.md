@@ -1,7 +1,7 @@
 # Machine Learning Prediction of California House Prices
 
-Azure - https://ml-california-house-price-prediction.azurewebsites.net/ <br>
-Heroku - https://california-house-price.herokuapp.com/
+<b>Azure</b> - https://ml-california-house-price-prediction.azurewebsites.net/ <br>
+<b>Heroku</b> - https://california-house-price.herokuapp.com/
 
 <h2>California House Price App Predicts the cost of affording a home based on factors like income, age of the owner, proximity to the Bay etc</h2>
 

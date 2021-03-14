@@ -33,12 +33,13 @@
 1. Exploratory Data Analysis(EDA)<br>
 2. Data Visualization and Cleaning<br>
 
-The total_bedrooms feature had 207 missing values. These values are filled by the mean of the entire feature
+The total_bedrooms feature had 207 missing values. These values are filled by the mean of the entire feature<br>
+
 ![image](https://user-images.githubusercontent.com/13360641/111071406-0bd3ff80-84fc-11eb-9d88-cab70469b9e1.png width = "50%" height="50%")
 
-There was outlier in median house value feature which was removed
-Before : ![image](https://user-images.githubusercontent.com/13360641/111071475-5190c800-84fc-11eb-8605-ac909da4e323.png)
-After : ![image](https://user-images.githubusercontent.com/13360641/111071483-5f464d80-84fc-11eb-948a-bd59b3acf778.png)
+There was outlier in median house value feature which was removed<br>
+Before : ![image](https://user-images.githubusercontent.com/13360641/111071475-5190c800-84fc-11eb-8605-ac909da4e323.png)<br>
+After : ![image](https://user-images.githubusercontent.com/13360641/111071483-5f464d80-84fc-11eb-948a-bd59b3acf778.png)<br>
 
 4. Feature Engineering<br>
 5. Feature Selection<br>
@@ -46,11 +47,13 @@ After : ![image](https://user-images.githubusercontent.com/13360641/111071483-5f
 7. Predicted models on test dataset<br>
 8. Model Evaluation(Calculated R2, Adjusted R2, MSE, RMSE and Accuracy)<br>
 
-Accuracies graph of all the models data was trained on - 
-![image](https://user-images.githubusercontent.com/13360641/111071512-8270fd00-84fc-11eb-8e93-ee66491df122.png)
+Accuracies graph of all the models data was trained on - <br>
+![image](https://user-images.githubusercontent.com/13360641/111071512-8270fd00-84fc-11eb-8e93-ee66491df122.png)<br>
 
 10. Exported the model<br>
-11. App running successfully in Google Cloud Platform, Azure, Heroku <hr>
+11. App running successfully in Google Cloud Platform, Azure, Heroku <hr><br>
+
+
 Blogs - https://tejasta.medium.com/ <br>        
 LinkedIn - https://www.linkedin.com/in/tejas-ta/ <br>
 Email - tejasta@gmail.com <hr>

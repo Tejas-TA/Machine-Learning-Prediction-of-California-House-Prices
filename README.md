@@ -30,26 +30,22 @@
 17. JavaScript<br><hr>
 
 <h3>Project Walkthrough</h3>
-1. Exploratory Data Analysis(EDA)<br>
-2. Data Visualization and Cleaning<br>
-
+1. Exploratory Data Analysis(EDA)
+2. Data Visualization and Cleaning
 3. The total_bedrooms feature had 207 missing values. These values are filled by the mean of the entire feature<br>
-
 ![image](https://user-images.githubusercontent.com/13360641/111071406-0bd3ff80-84fc-11eb-9d88-cab70469b9e1.png)
 
-There was outlier in median house value feature which was removed<br>
+There was an outlier in median house value feature which was removed<br>
 Before : ![image](https://user-images.githubusercontent.com/13360641/111071475-5190c800-84fc-11eb-8605-ac909da4e323.png)<br>
 After : ![image](https://user-images.githubusercontent.com/13360641/111071483-5f464d80-84fc-11eb-948a-bd59b3acf778.png)<br>
 
-4. Feature Engineering<br>
-5. Feature Selection<br>
-6. Trained Machine Learning algorithms<br>
-7. Predicted models on test dataset<br>
-8. Model Evaluation(Calculated R2, Adjusted R2, MSE, RMSE and Accuracy)<br>
-
+4. Feature Engineering
+5. Feature Selection
+6. Trained Machine Learning algorithms
+7. Predicted models on test dataset
+8. Model Evaluation(Calculated R2, Adjusted R2, MSE, RMSE and Accuracy)
 9. Accuracies graph of all the models data was trained on - <br>
 ![image](https://user-images.githubusercontent.com/13360641/111071512-8270fd00-84fc-11eb-8e93-ee66491df122.png)<br>
-
 10. Exported the model<br>
 11. App running successfully in Google Cloud Platform, Azure, and Heroku
 <hr>

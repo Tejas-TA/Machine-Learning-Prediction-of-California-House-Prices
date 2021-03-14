@@ -2,11 +2,11 @@
 
 <b>Azure</b> - https://ml-california-house-price-prediction.azurewebsites.net/ <br>
 <b>Heroku</b> - https://california-house-price.herokuapp.com/ <br>
-<b>Google Cloud Platform</b> - https://california-house-price.du.r.appspot.com/
+<b>Google Cloud Platform</b> - https://california-house-price.du.r.appspot.com/ 
 
 <img src="https://github.com/Tejas-TA/ML-California-House-Prices-Prediction/blob/main/California_Demo.gif" width = "100%" height="100%">
 
-<h3>California House Price App Predicts the cost of affording a home based on factors such as longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population, households, median_income, median_house_value, ocean_proximity. The data is collected from 1990 California census data</h3>
+<h3>California House Price App Predicts the cost of affording a home based on factors such as longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population, households, median_income, median_house_value, ocean_proximity. The data is collected from 1990 California census data</h3><hr>
 
 <h3>Dataset</h3> https://www.kaggle.com/camnugent/california-housing-prices <br><hr>
 

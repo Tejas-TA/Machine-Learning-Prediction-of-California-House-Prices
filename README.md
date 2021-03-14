@@ -53,6 +53,7 @@ After : ![image](https://user-images.githubusercontent.com/13360641/111071483-5f
 10. Exported the model<br>
 11. App running successfully in Google Cloud Platform, Azure, Heroku <hr>
 
-Blogs - https://tejasta.medium.com/ <br>        
+       
 LinkedIn - https://www.linkedin.com/in/tejas-ta/ <br>
-Email - tejasta@gmail.com <hr>
+Email - tejasta@gmail.com <br>
+Blogs - https://tejasta.medium.com/ <hr>

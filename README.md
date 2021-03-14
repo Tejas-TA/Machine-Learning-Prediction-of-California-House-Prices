@@ -7,7 +7,6 @@
 <img src="https://github.com/Tejas-TA/ML-California-House-Prices-Prediction/blob/main/California_Demo.gif" width = "100%" height="100%">
 
 <h3>California House Price App Predicts the cost of affording a home based on factors such as longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population, households, median_income, median_house_value, ocean_proximity. The data is collected from 1990 California census data</h3>
-<hr style="height:1px;border:none;color:#333;background-color:#333;" />
 
 <h3>Dataset</h3> https://www.kaggle.com/camnugent/california-housing-prices <br><hr>
 
@@ -39,8 +38,10 @@
 6. Predicted models on test dataset<br>
 7. Model Evaluation(Calculated R2, Adjusted R2, MSE, RMSE and Accuracy)<br>
 8. Exported the model<br>
-9. App running successfully in Azure - https://ml-california-house-price-prediction.azurewebsites.net/  <br>
-10. Deployed the same application on Heroku Cloud - https://california-house-price.herokuapp.com/ <hr>
+9. App running successfully in 
+  9.1. Azure - https://ml-california-house-price-prediction.azurewebsites.net/  <br>
+  9.2. Heroku - https://california-house-price.herokuapp.com/ <hr>
+  9.3. Google Cloud Platform -  https://california-house-price.du.r.appspot.com/
 
 Blogs - https://tejasta.medium.com/ <br>
 LinkedIn - https://www.linkedin.com/in/tejas-ta/ <br>

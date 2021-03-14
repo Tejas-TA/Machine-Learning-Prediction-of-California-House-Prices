@@ -32,7 +32,7 @@
 <h3>Project Walkthrough</h3>
 1. Exploratory Data Analysis(EDA)<br>
 2. Data Visualization and Cleaning<br>
-3. The total_bedrooms feature had 207 missing values. These values are filled by the mean of the entire feature
+3. The total_bedrooms feature had 207 missing values. These values are filled by the mean of the entire feature<br>
 ![image](https://user-images.githubusercontent.com/13360641/111071406-0bd3ff80-84fc-11eb-9d88-cab70469b9e1.png)
 
 There was an outlier in median house value feature which was removed<br>

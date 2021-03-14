@@ -6,7 +6,7 @@
 
 <img src="https://github.com/Tejas-TA/ML-California-House-Prices-Prediction/blob/main/California_Demo.gif" width = "100%" height="100%">
 
-<h2>California House Price App Predicts the cost of affording a home based on factors like income, age of the owner, proximity to the Bay etc</h2>
+<h3>California House Price App Predicts the cost of affording a home based on factors such as longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population, households, median_income, median_house_value, ocean_proximity. The data is collected from 1990 California census data</h3><hr style="height:1px;border:none;color:#333;background-color:#333;" />
 
 <h3>Dataset</h3> https://www.kaggle.com/camnugent/california-housing-prices <br><hr>
 

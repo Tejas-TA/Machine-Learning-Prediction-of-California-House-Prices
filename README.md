@@ -38,7 +38,7 @@
 6. Predicted models on test dataset<br>
 7. Model Evaluation(Calculated R2, Adjusted R2, MSE, RMSE and Accuracy)<br>
 8. Exported the model<br>
-9. App running successfully in Google Cloud Platform, Azure, Heroku
+9. App running successfully in Google Cloud Platform, Azure, Heroku<hr>
 
 Blogs - https://tejasta.medium.com/ <br>
 LinkedIn - https://www.linkedin.com/in/tejas-ta/ <br>

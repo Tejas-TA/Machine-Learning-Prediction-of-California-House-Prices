@@ -51,9 +51,9 @@ After : ![image](https://user-images.githubusercontent.com/13360641/111071483-5f
 ![image](https://user-images.githubusercontent.com/13360641/111071512-8270fd00-84fc-11eb-8e93-ee66491df122.png)<br>
 
 10. Exported the model<br>
-11. App running successfully in Google Cloud Platform, Azure, Heroku <hr>
-
-       
+11. App running successfully in Google Cloud Platform, Azure, and Heroku
+<hr>
+    
 LinkedIn - https://www.linkedin.com/in/tejas-ta/ <br>
 Email - tejasta@gmail.com <br>
 Blogs - https://tejasta.medium.com/ <hr>

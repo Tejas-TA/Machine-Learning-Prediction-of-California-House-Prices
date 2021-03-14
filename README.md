@@ -1,4 +1,4 @@
-# Machine Learning Prediction of California House Prices
+## Machine Learning Prediction of California House Prices
 
 <b>Azure</b> - https://ml-california-house-price-prediction.azurewebsites.net/ <br>
 <b>Heroku</b> - https://california-house-price.herokuapp.com/ <br>

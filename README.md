@@ -38,10 +38,7 @@
 6. Predicted models on test dataset<br>
 7. Model Evaluation(Calculated R2, Adjusted R2, MSE, RMSE and Accuracy)<br>
 8. Exported the model<br>
-9. App running successfully in 
-  9.1. Azure - https://ml-california-house-price-prediction.azurewebsites.net/  <br>
-  9.2. Heroku - https://california-house-price.herokuapp.com/ <hr>
-  9.3. Google Cloud Platform -  https://california-house-price.du.r.appspot.com/
+9. App running successfully in Google Cloud Platform, Azure, Heroku
 
 Blogs - https://tejasta.medium.com/ <br>
 LinkedIn - https://www.linkedin.com/in/tejas-ta/ <br>

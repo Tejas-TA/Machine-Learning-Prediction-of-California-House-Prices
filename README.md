@@ -37,7 +37,7 @@
 ![image](https://user-images.githubusercontent.com/13360641/111071406-0bd3ff80-84fc-11eb-9d88-cab70469b9e1.png)
 
 There was an outlier in median house value feature which was removed<br>
-![image](https://user-images.githubusercontent.com/13360641/111071475-5190c800-84fc-11eb-8605-ac909da4e323.png)
+![image](https://user-images.githubusercontent.com/13360641/111071475-5190c800-84fc-11eb-8605-ac909da4e323.png)<br>
 ![image](https://user-images.githubusercontent.com/13360641/111071483-5f464d80-84fc-11eb-948a-bd59b3acf778.png)
 
 4. Feature Engineering<br>

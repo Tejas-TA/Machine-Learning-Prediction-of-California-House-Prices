@@ -2,7 +2,7 @@
 
 <b>Azure</b> - https://ml-california-house-price-predictions.azurewebsites.net/ <br>
 <b>Heroku</b> - https://california-house-price.herokuapp.com/ <br>
-<b>Google Cloud Platform</b> - https://california-house-price.du.r.appspot.com/ 
+<b>Google Cloud Platform</b> - https://ai-california-house-prices.ue.r.appspot.com/
 
 <img src="https://github.com/Tejas-TA/ML-California-House-Prices-Prediction/blob/main/California_Demo.gif" width = "100%" height="100%">
 

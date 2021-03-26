@@ -28,6 +28,7 @@
 	<link rel="stylesheet" type="text/css" href="static/css/util.css">
 	<link rel="stylesheet" type="text/css" href="static/css/main.css">
 <!--===============================================================================================-->
+
 <style>
 .contact100-form-title {
   font-family:'Caveat', cursive;
@@ -54,6 +55,7 @@ a:active {
 input::-webkit-input-placeholder {
     font-size: 16px;
 }
+
 </style>
 </head>
 <body>
@@ -79,13 +81,14 @@ input::-webkit-input-placeholder {
 			</div>
 
 			<form action="{{ url_for('predict')}}" method="post" class="contact100-form validate-form">
-				<p><b>Tejas T A |</b></p>
-				<p><b>Mail - tejasta@gmail.com |</b></p>
-				<a href="https://www.linkedin.com/in/tejasta/" target="_blank"> LinkedIn - Click here</a><br><hr>
+				<p><b>By : Tejas T A |</b></p>
+				<p><b> Email - tejasta@gmail.com |</b></p>
+				<b><a href="https://www.linkedin.com/in/tejasta/" target="_blank"> LinkedIn - Click here</a></b><br><hr>
+				<p><em>Note: Hover over the fields to understand more about the inputs required</em><br>
 				
 				<!--1-->
 				<div class="wrap-input100 validate-input">
-					<input id="longitude" class="input100" type="number" step="any"  name="longitude" required="required" placeholder="Longitude Ex : -124, -120, -114, etc"/>
+					<input id="longitude" class="input100" type="number" step="any"  name="longitude" title="A measure of how far west a house is; a higher value is farther west" required="required" placeholder="Longitude Ex : -124, -120, -114, etc"/>
 					<span class="focus-input100"></span>
 					<label class="label-input100 rs1" for="message">
 						<span class="lnr lnr-bubble"></span>
@@ -94,7 +97,7 @@ input::-webkit-input-placeholder {
 				
 				<!--2-->
 				<div class="wrap-input100 validate-input">
-					<input id="latitude" class="input100" type="number" min="0" step="any" name="latitude" required="required" placeholder="Latitude Ex : 32,33,24, etc"/>
+					<input id="latitude" class="input100" type="number" min="0" step="any" name="latitude" title="A measure of how far north a house is; a higher value is farther north" required="required" placeholder="Latitude Ex : 32,33,24, etc"/>
 					<span class="focus-input100"></span>
 					<label class="label-input100 rs1" for="message">
 						<span class="lnr lnr-bubble"></span>
@@ -103,7 +106,7 @@ input::-webkit-input-placeholder {
 				
 				<!--3-->
 				<div class="wrap-input100 validate-input">
-					<input id="housing_median_age" class="input100" type="number" step="any" min="0" required="required" name="housing_median_age" placeholder="Age of Owner"/>
+					<input id="housing_median_age" class="input100" type="number" step="any" min="0" title="Median age of a house within a block; a lower number is a newer building" required="required" name="housing_median_age" placeholder="Median age of a house within a block"/>
 					<span class="focus-input100"></span>
 					<label class="label-input100 rs1" for="message">
 						<span class="lnr lnr-bubble"></span>
@@ -112,7 +115,7 @@ input::-webkit-input-placeholder {
 				
 				<!--4-->
 				<div class="wrap-input100 validate-input">
-					<input id="total_rooms" class="input100" step="any" type="number" min="0" name="total_rooms" required="required" placeholder="Number of rooms(Ex : Kitchen, Living area, etc)"/>
+					<input id="total_rooms" class="input100" step="any" type="number" min="0" name="total_rooms" title="Total number of rooms within a block" required="required" placeholder="# of rooms within a block"/>
 					<span class="focus-input100"></span>
 					<label class="label-input100 rs1" for="message">
 						<span class="lnr lnr-bubble"></span>
@@ -121,7 +124,7 @@ input::-webkit-input-placeholder {
 				
 				<!--5-->
 				<div class="wrap-input100 validate-input">
-					<input id="total_bedrooms" class="input100" type="number" min="0" step="any" name="total_bedrooms" required="required" placeholder="Number of bedrooms only"/>
+					<input id="total_bedrooms" class="input100" type="number" min="0" step="any" name="total_bedrooms" title="Total number of bedrooms within a block" required="required" placeholder="# of bedrooms within a block"/>
 					<span class="focus-input100"></span>
 					<label class="label-input100 rs1" for="message">
 						<span class="lnr lnr-bubble"></span>
@@ -130,7 +133,7 @@ input::-webkit-input-placeholder {
 				
 				<!--6-->
 				<div class="wrap-input100 validate-input">	
-					<input id="population" class="input100" type="number" min="0" step="any" required="required" name="population" placeholder="Number of people residing within a block"/>
+					<input id="population" class="input100" type="number" min="0" step="any" title="Total number of people residing within a block" required="required" name="population" placeholder="# of people residing within a block"/>
 					<span class="focus-input100"></span>
 					<label class="label-input100 rs1" for="message">
 						<span class="lnr lnr-bubble"></span>
@@ -139,7 +142,7 @@ input::-webkit-input-placeholder {
 				
 				<!--7-->
 				<div class="wrap-input100 validate-input">	
-					<input id="households" class="input100" type="number" min="0" step="any"  name="households"  required="required" placeholder="Number of Households in the area"/>
+					<input id="households" class="input100" type="number" min="0" step="any"  name="households"  title="Total number of households, a group of people residing within a home unit, for a block" required="required" placeholder="# of people residing within a home unit, for a block"/>
 					<span class="focus-input100"></span>
 					<label class="label-input100 rs1" for="message">
 						<span class="lnr lnr-bubble"></span>
@@ -148,7 +151,7 @@ input::-webkit-input-placeholder {
 			
 				<!--8-->
 				<div class="wrap-input100 validate-input">
-					<input id="median_income" class="input100" type="number" min="0" step="any"  name="median_income" required="required" placeholder="Income(in tens of thousands of US Dollars)"/>
+					<input id="median_income" class="input100" type="number" min="0" step="any"  name="median_income" title="Median income for households within a block of houses (measured in tens of thousands of US Dollars)" required="required" placeholder="Median income for households within a block of houses"/>
 					<span class="focus-input100"></span>
 					<label class="label-input100 rs1" for="message">
 						<span class="lnr lnr-bubble"></span>

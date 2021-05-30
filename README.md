@@ -43,7 +43,7 @@ There was an outlier in the median house value feature which was removed<br>
 
 4. Feature Engineering<br>
 5. Feature Selection<br>
-6. Trained many Machine Learning algorithms on the dataset<br>
+6. Trained Machine Learning algorithms on the dataset<br>
 7. Predicted models on test dataset<br>
 8. Model Evaluation(Calculated R2, Adjusted R2, MSE, RMSE and Accuracy)<br>
 9. Accuracies graph of all the models data was trained on is as below- <br>

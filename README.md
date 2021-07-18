@@ -33,7 +33,7 @@
 <h3>Project Walkthrough</h3>
 1. Exploratory Data Analysis(EDA)<br>
 2. Data Visualization and Cleaning<br>
-4. The total_bedrooms feature has 207 missing values. These missing values are filled by the mean of the entire feature<br>
+3. The total_bedrooms feature has 207 missing values. These missing values are filled by the mean of the entire feature<br>
 
 ![image](https://user-images.githubusercontent.com/13360641/111071406-0bd3ff80-84fc-11eb-9d88-cab70469b9e1.png)
 
@@ -43,14 +43,14 @@ There was an outlier in the median house value feature which was removed<br>
 
 4. Feature Engineering<br>
 5. Feature Selection<br>
-6. Trained Machine Learning algorithms on the dataset<br>
-7. Predicted models on test dataset<br>
-8. Model Evaluation(Calculated R2, Adjusted R2, MSE, RMSE and Accuracy)<br>
-9. Accuracies graph of all the models data was trained on is as below- <br>
+6. Trained many Machine Learning algorithms on the dataset<br>
+7. Predicted all the trained models on the test dataset<br>
+8. Model Evaluation(Calculated R2, Adjusted R2, MSE, RMSE, MAE and Accuracy)<br>
+9. Accuracies graph of all the models' data was trained on is as below- <br>
 ![image](https://user-images.githubusercontent.com/13360641/111071512-8270fd00-84fc-11eb-8e93-ee66491df122.png)
-10. Hyperparameter Tuning is done on the top performing base ML algorithms<br>
+10. Hyperparameter Tuning is done on the top-performing base ML algorithms(Catboost, RandomForest, LightGBM)<br>
 11. Exported the model<br>
-11. Developed Front End Web based application and created a flask server<br>
+11. Developed Front End Web-based application and created a flask server<br>
 12. App running successfully in Google Cloud Platform, Azure, and Heroku
 <hr>
     

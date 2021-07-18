@@ -2,7 +2,7 @@
 
 <b>Heroku</b> - https://california-house-price.herokuapp.com/ <br>
 <b>Google Cloud Platform</b> - https://ai-california-house-prices.ue.r.appspot.com/ <br>
-<b>Azure</b> -[Free Tier Limit exceeded, Application might be shutdown] https://ml-california-house-price-predictions.azurewebsites.net/ <br>
+<b>Azure</b> - https://ml-california-house-price-predictions.azurewebsites.net/ [Free Tier Limit exceeded, Application might be shutdown] <br>
 
 
 <img src="https://github.com/Tejas-TA/ML-California-House-Prices-Prediction/blob/main/California_Demo.gif" width = "100%" height="100%">

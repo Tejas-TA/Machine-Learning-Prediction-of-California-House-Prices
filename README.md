@@ -54,6 +54,6 @@ There was an outlier in the median house value feature which was removed<br>
 12. App running successfully in Google Cloud Platform, Azure, and Heroku
 <hr>
     
-LinkedIn - https://www.linkedin.com/in/tejas-ta/ <br>
 Email - tejasta@gmail.com <br>
+LinkedIn - https://www.linkedin.com/in/tejas-ta/ <br>
 Blogs - https://tejasta.medium.com/ <hr>
